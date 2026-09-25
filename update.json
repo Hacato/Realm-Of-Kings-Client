@@ -1,7 +1,7 @@
 [
   {
     "name": "realm-of-kings-windows.zip",
-    "url": "https://github.com/Hacato/edopro/releases/download/v0.0.1-test/realm-of-kings-windows.zip",
-    "md5": "5b6cbbe68ce3e87f93e9804c108f8805"
+    "url": "https://raw.githubusercontent.com/Hacato/Realm-Of-Kings-Client/travis-windows/realm-of-kings-windows.zip",
+    "md5": "5562f7bd6dc73147275656fee70f24ec"
   }
 ]
